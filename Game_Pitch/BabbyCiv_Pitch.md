@@ -15,7 +15,7 @@ Turn-based Strategy Game:
 	- One upgrade for each of the types of units and then one upgrade for the city.
 	- Upgrade for units improves unit damage and production speed.
 	- Upgrade for city improves city health.
-	- Haven't decided whether or not units and upgrades can be built at the same time, but they probably won't be able to.
+	- WE HAVE decided whether or not units and upgrades can be built at the same time, but they probably won't be able to.
 	
 Menus:
 	- Need a menu for unit production.
