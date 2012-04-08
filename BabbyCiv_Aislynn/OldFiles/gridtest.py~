@@ -1,0 +1,8 @@
+import pygame
+# This makes event handling, rect, and colors simpler.
+# Now you can refer to `Sprite` or `Rect()` vs `pygame.sprite.Sprite` or `pygame.Rect()`
+from pygame.locals import *
+from pygame import Color, Rect, Surface
+
+pygame.draw.rect(screen, Color("blue"), Rect(10,10,200,200), width=0)
+pygame.draw.rect(screen, Color("darkred"), Rect(210,210,400,400), width=0)
